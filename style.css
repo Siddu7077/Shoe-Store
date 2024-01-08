@@ -1,0 +1,298 @@
+.navbar
+{
+    box-shadow:rgb(125, 117, 117) 0 2px 25px;
+}
+.container1
+{
+    width: 100%;
+    height: 650px;
+    
+}
+.img-1
+{
+    float: left;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+.supermax
+{
+    padding-top: 230px;
+    padding-left: 750px;
+    font-weight: 900;
+    color: red;
+    font-size: 40px;
+}
+.running
+{
+    padding-left: 750px;
+    font-size: 35px;
+    color: blue;
+}
+.p1
+{
+    padding-left: 750px;
+    padding-right: 100px;
+}
+.buy
+{
+    background-color: green;
+    color: white;
+    margin-left: 50px;
+    border-radius: 6px;
+    padding: 9px;
+    border: none;
+}
+.container2
+{
+    width: 100%;
+    height: 650px;
+    background: linear-gradient(to right,rgb(51, 184, 228), #f4500a);
+    /* margin-bottom: 90px; */
+}
+.img-2{
+    float: inline-end;
+    margin-right: 160px;
+}
+.box
+{
+    width: 600px;
+    height: 150px;
+    margin: 15px;
+    background-color: aliceblue;   
+    border-radius: 4px;
+    box-shadow: 0 1px 9px grey; 
+}
+.mainbox
+{
+    padding-top: 70px;
+    padding-left: 80px;
+    padding-bottom: 50px;
+    border: none;
+}
+.shop
+{
+    font-size: 90px;
+    padding: 11px;
+    color: gray;
+    float: left;
+}
+.secondslide
+{
+    padding-top: 9px;
+    padding-left: 170px;
+    padding-right: 60px;
+}
+.container3
+{
+    width: 100%;
+    height: 1400px;
+}
+.table
+{
+    background-color: aqua;
+    text-align: center;
+    box-shadow:0px 4px 24px rgb(202, 193, 193);
+    
+}
+.table-responsive
+{
+    padding: 70px;
+    
+}
+.bold
+{
+    font-weight:bolder;
+    color: #f4500a;
+    font-size: 47px;
+}
+.size
+{
+    color: rgb(86, 183, 216);
+}
+.team
+{
+    text-align: center;
+    font-weight:bolder;
+}
+.card
+{
+    float: inline-start;
+    margin: 30px;
+}
+.card-img-top
+{
+    float:inline-start;
+    height: 270px;
+    border: none;
+    display: flex;
+    flex-direction: row;
+
+}
+.btn{
+    justify-content: center;
+    align-items: center;
+    padding-left: 30px;
+}
+.foot
+{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(to right,rgb(51, 184, 228), #f4500a);
+    text-align: center;
+}
+.container2-1
+{
+    width: 100%;
+    height: 400px;
+    padding-right: 90px;
+    padding-top: 30px;
+    padding-left: 50px;
+}
+.video-1
+{
+    float: inline-end;
+    height: 320px;
+    border:2px solid rgb(229, 221, 221);
+    border-radius: 7px; 
+    box-shadow: -1px 0px 9px grey;
+}
+.feel
+{
+    font-size: 70px;
+    font-family: poppins,sans-serif;
+    position: relative;
+    z-index: 1px;
+}
+.text1
+{
+    padding-top: 60px;
+    padding-left: 8px;
+    
+}
+.plain
+{
+    width: 200px;
+    height: 70px;
+    background: rgb(245, 231, 153);
+    position:absolute;
+    z-index: -1px;
+    top: 242px;
+    padding-bottom: 70px;
+    padding-right: 317px;
+    padding-left: 3px;
+    padding-top: 10px;
+    
+}
+.conatiner2-2
+{
+    width: 100%;
+    height: 1800px;
+}
+.heading
+{
+    text-align: center;
+    padding-top: 40px;
+    color: blue;
+    font-size: 30px;
+}
+.fa-indian-rupee-sign
+{
+    font-size: 28px;
+}
+sub
+{
+    font-weight: 100;
+    font-size: 13px;
+    padding-left: 10px;
+}
+.rupee
+{
+    font-weight: 100;
+    font-size: 12px;
+    color: grey;
+}
+.stars
+{
+    color: orange;
+    padding-left: 66px;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.btn-1,.btn-2
+{
+    height: 40px;
+    padding-left: 3px;
+}
+.btn-2
+{
+    width: 110px;
+}
+.btn-1
+{
+    font-size: 17px;
+    width: 130px;
+    padding: 3px;
+}
+.shoe-1
+{
+    border: solid rgb(215, 203, 203) 2px;
+    border-radius: 5px;
+    width: 300px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 2px;
+}
+.row
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    align-items: baseline;
+    margin: 3px;
+    padding-right: 70px;
+}
+.card
+{
+    box-shadow: 0px 1px 22px grey;
+}
+.divs
+{
+    margin: 2px;
+    display: flex;
+    justify-content:baseline;
+    align-items:flex-start;
+    padding-bottom: 2px;
+}
+.plain2
+{
+    position: relative;
+    background-color: rgb(251, 244, 179);
+    width: 500px;
+    height: 80px;
+    bottom: 95px;
+    left: 160px;
+    float: left;
+}
+.text2
+{
+    position: absolute;
+    top: 1850px;
+    left: 200px;
+    float: left;
+}
+.video-2
+{
+    float: right;
+    margin-top: 70px;
+    border-radius: 7px;
+    border: solid white 2px;
+    box-shadow: 0px 1px 22px grey;
+
+}
+.container2-3
+{
+    width: 100%;
+    height: 500px;
+}
